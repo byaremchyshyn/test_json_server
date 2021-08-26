@@ -1,10 +1,7 @@
 {
    "sub"          : "bob",
-   "groupIds"     : [ "bobsdepartment","administrators" ], 
    "given_name"   : "Bob",
    "name"         : "Bob Smith",
    "email"        : "bob@mycompany.com",
-   "phone_number" : "+1 (604) 555-1234;ext5678",
-   "address"      : { "formatted" : "123 Main St., Anytown, TX 77777" },
-   "picture"      : "http://mycompany.com/bob_photo.jpg"
+   "phone_number" : "+1 (604) 555-1234;ext5678"
 }
