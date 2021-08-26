@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "sub":"bob",
+   "given_name":"Bob",
+   "name":"Bob Smith",
+   "email":"bob@mycompany.com"
 }
