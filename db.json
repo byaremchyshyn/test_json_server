@@ -1,7 +1,11 @@
 {
-   "sub":"bob",
-   "given_name":"Bob",
-   "name":"Bob Smith",
-   "email":"bob@mycompany.com",
-   "phone_number":"+1 (604) 555-1234;ext5678"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
